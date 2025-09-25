@@ -7,3 +7,4 @@ class User(models.Model):
     age = models.CharField(max_length=50)
 
 city = "kk"
+state = "TN"
