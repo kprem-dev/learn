@@ -8,3 +8,4 @@ class User(models.Model):
 
 city = "kk"
 state = "TN"
+country ="IND"
